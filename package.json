@@ -1,0 +1,11 @@
+{
+  "name": "george-assyrian-page",
+  "version": "1.0.0",
+  "description": "# https://georgeo4.github.io/george-assyrian-page/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
